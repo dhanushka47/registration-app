@@ -1,0 +1,7 @@
+1. install software using setup file
+
+2. run software onece and close  
+
+3. then STDdb.mdf file and schools.txt file copy and paste to your computer  "C:innotics"
+
+4. enjoy 
